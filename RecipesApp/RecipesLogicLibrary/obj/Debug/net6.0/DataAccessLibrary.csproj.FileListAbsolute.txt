@@ -1,0 +1,12 @@
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\Users\johnp\source\repos\RecipesApp\RecipesLogicLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll
